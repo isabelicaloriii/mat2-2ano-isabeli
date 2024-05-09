@@ -22,6 +22,14 @@
     .escola-titulo{
         padding: 24px 0;
     }
-        
+    .escola{
+        background-image: linear-gradient(#f36a58,#F25541);
+        color:white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 24px 0;
+    }
+     
     
     
