@@ -11,4 +11,17 @@
     .escola-imagem{
         width: 25%;
     }
+    .escola{
+        background-image: linear-gradient(#f36a58,#F25541);
+        color: white;
+        display: flex;
+    }
+    .escola-div-conteudo{
+        width: 35%;
+    }
+    .escola-titulo{
+        padding: 24px 0;
+    }
+        
+    
     
