@@ -9,17 +9,17 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 4% 0;
+    padding: 16px 0;
 }
 
 .cabecalho-imagem{
-    width: 4%;
+    width: 15%;
 }
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0 8%;
-    font-size: 12px;
+    margin: 0 16px;
+    font-size: 20px;
 }
 
 .escola-imagem{
