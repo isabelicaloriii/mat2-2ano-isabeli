@@ -8,18 +8,18 @@
     .cabeçalho-imagem{
         width: 20%;
     }
-    .escola-imagem{
+    .inicio-imagem{
         width: 25%;
     }
-    .escola{
+    .inicio{
         background-image: linear-gradient(#f36a58,#F25541);
         color: white;
         display: flex;
     }
-    .escola-div-conteudo{
+    .inicio-div-conteudo{
         width: 35%;
     }
-    .escola-titulo{
+    .inicio-titulo{
         padding: 24px 0;
     }
         
