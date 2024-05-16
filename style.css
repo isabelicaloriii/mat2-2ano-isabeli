@@ -25,6 +25,9 @@
 .escola-imagem{
     width: 25%;
 }
+body {
+    font-family: 'Poppins', sans-serif;
+}
 
 .escola{
     background-image: linear-gradient(#F36A58,#F25541);
@@ -61,7 +64,4 @@
     text-align: center;
     padding: 16px 0;
 }
-.estudante-div{
-    text-align: center;
-    padding: 10px 0;
-}
+.
