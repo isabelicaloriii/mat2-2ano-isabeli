@@ -60,10 +60,9 @@ body {
 
 .estudante-div{
     text-align: center;
-    padding: 16px 0;
+    padding: 50px 0;
 }
-
-..estudante-todos{
+.estudante-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
