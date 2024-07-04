@@ -41,6 +41,7 @@ body {
     width: 35%;
 }
 
+
 .escola-titulo{
     padding: 24px 0;
 }
@@ -59,17 +60,26 @@ body {
 
 .estudante-div{
     text-align: center;
-    padding: 50px 0;
+    padding: 16px 0;
 }
-.estudante-todos{
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
-}
+
 .estudante-titulo{
     text-align: center;
-    padding: 24px 0;
+    padding: 50px 0;
 }
+
 .estudante-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
+}
 
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+   
+}
